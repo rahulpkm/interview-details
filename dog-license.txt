@@ -1,0 +1,32 @@
+What are the userinput fields and derived fields?
+for eg:
+1. Name of owner
+2. Adress
+3.Phone
+4.Breed of dog
+5.vaccination details
+dotcor information
+6.training done
+7.does it has a neck ncollar?
+8.how old is the dog?
+9. Any recent illness
+10. Male/female?
+
+Check about functional and non-functional requirements.
+
+Functional
+   what are the time zone supported
+  do you need payment gateway
+  what are the kind userroles supported -admin,normal users
+  any kind of workflow required?
+  what are the languages supported in this website
+
+Non Functional
+   user volume
+   peak time
+   browsers supported
+   is it a cloud based application
+
+
+Inorder to understand the reuquirement throughly and understand risk we  will be having bainstorming sessions. 
+Otheser system related requirments will be included in the non functional requierment and  after having finalizhing the requirement.
